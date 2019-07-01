@@ -1,0 +1,19 @@
+{
+  "name": "reacthooksstudy",
+  "version": "1.0.0",
+  "description": "Collection of React hooks for my study purpose to install with NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redrock912/ReactHooksStudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Redrock912/ReactHooksStudy/issues"
+  },
+  "homepage": "https://github.com/Redrock912/ReactHooksStudy#readme"
+}
